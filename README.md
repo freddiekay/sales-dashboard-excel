@@ -1,4 +1,4 @@
-<img width="1363" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/eb7abda1-e1eb-42ad-b8fb-f78cd8cee10c" /><img
+<img width="1363" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/a75cab84-fcc1-4ea4-91fb-2a3b84d61028" />
 
 This project is a professional Excel dashboard for analyzing sales transactions. It includes key performance indicators (KPIs), pivot tables, charts, and slicers to give actionable business insights.
 
