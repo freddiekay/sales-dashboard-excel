@@ -2,7 +2,7 @@
 
 This project is a professional Excel dashboard for analyzing sales transactions. It includes key performance indicators (KPIs), pivot tables, charts, and slicers to give actionable business insights.
 
-## 📊 Key Features
+## Key Features
 
 - Dynamic **KPI Cards**: Total Revenue, Total Orders, Average Order Value  
 - **Pivot Tables**: Analyzing data by Region, Product, and Month  
@@ -10,21 +10,21 @@ This project is a professional Excel dashboard for analyzing sales transactions.
 - **Slicers**: Interactive filtering by Region and Category  
 - Fully formatted and clean dashboard layout for business presentation
 
-## 📁 Dataset
+## Dataset
 
 - 500+ rows of fictional sales data
 - Fields include: Order ID, Date, Product, Category, Region, Quantity, Unit Price, and Total Sale
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Excel** (Pivot Tables, Charts, Formulas, Slicers)
 
-## 📌 Project Goals
+## Project Goals
 
 - Practice Excel data analysis and dashboarding
 - Communicate business insights through visual storytelling
 - Develop portfolio-ready data projects
 
-## ✅ Status
+## Status
 
-Completed ✅
+Completed
