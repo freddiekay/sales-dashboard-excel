@@ -12,7 +12,7 @@ This project is a professional Excel dashboard for analyzing sales transactions.
 
 ## Dataset
 
-- 500+ rows of fictional sales data
+- 1500 rows of fictional sales data
 - Fields include: Order ID, Date, Product, Category, Region, Quantity, Unit Price, and Total Sale
 
 ## Tools Used
